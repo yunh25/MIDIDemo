@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+85df730e7bf63998f5d7687dbeb17c01 MidiDemo_artefacts/JuceLibraryCode/JuceHeader.h
+ca0fff2b4e247af8bbb2113d64636116 MidiDemo_artefacts/JuceLibraryCode/MidiDemo/PkgInfo
